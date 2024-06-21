@@ -1,7 +1,7 @@
 # Information-Retrieval
-Exploratory Data Analysis (EDA)
-Experiment on Self-Built Model
-Experiment on NLP Model
+Exploratory Data Analysis (EDA) /r
+Experiment on Self-Built Model/r
+Experiment on NLP Model /r
 
 The project concludes with insights into the effectiveness of different NLP models for text similarity prediction, highlighting the advantages of more sophisticated models like ELECTRA over traditional approaches.
 
